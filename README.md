@@ -4,8 +4,8 @@ I'm a developer focused on building minimalist, high-performance tools for learn
 
 ### 🛠 Projects
 
-* **[IronWill](yolshin195.github.io/lexcrab)** – Gamified task manager for deep work. Convert focus into rewards with an industrial Rust-style UI. ⚙️
-* **[LexCrab](https://github.com/Yolshin195/lexcrab)** – Minimalist language learning through reading. Local translations, word highlighting, and instant dictionary access. 🦀
+* **[IronWill](https://yolshin195.github.io/Iron-will)** – Gamified task manager for deep work. Convert focus into rewards with an industrial Rust-style UI. ⚙️
+* **[LexCrab](https://yolshin195.github.io/lexcrab)** – Minimalist language learning through reading. Local translations, word highlighting, and instant dictionary access. 🦀
 
 ---
 
