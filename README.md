@@ -6,6 +6,7 @@ I'm a developer focused on building minimalist, high-performance tools for learn
 
 * **[IronWill](https://yolshin195.github.io/Iron-will)** – Gamified task manager for deep work. Convert focus into rewards with an industrial Rust-style UI. ⚙️
 * **[LexCrab](https://yolshin195.github.io/lexcrab)** – Minimalist language learning through reading. Local translations, word highlighting, and instant dictionary access. 🦀
+* **[MindfulFlow](https://yolshin195.github.io/mindful)** – PWA journal based on the Korean mindfulness system. Empty your thoughts, track moods, and use AI-powered prompts to break through productivity stalls. 🌿
 
 ---
 
