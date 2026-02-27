@@ -13,7 +13,6 @@ I'm a developer focused on building minimalist, high-performance tools for learn
 
 - 🔭 I’m currently working on improving my Rust ecosystem tools.
 - 🌱 I’m currently learning advanced backend architectures.
-- 💬 Ask me about: Language learning tech or gamification.
 <!--
 - 📫 How to reach me: [Твоя ссылка или почта]
 **Yolshin195/Yolshin195** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
