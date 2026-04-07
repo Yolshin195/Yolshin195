@@ -4,6 +4,7 @@ I'm a developer focused on building minimalist, high-performance tools for learn
 
 ### 🛠 Projects
 
+* **[Deep Focus Tracker](https://yolshin195.github.io/workday-flow/)** - Deep Focus Tracker is a single-page app for the Deep Work method, featuring 50-minute focus sessions and brief breaks to optimize productivity.
 * **[MNIST-rs](https://yolshin195.github.io/mnist-rs/)** – Neural network in Rust for handwritten digit recognition (MNIST). Native training with WebAssembly inference in the browser. Demonstrates ML algorithms, linear algebra, and Rust → wasm compilation. 🧠
 * **[IronWill](https://yolshin195.github.io/Iron-will)** – Gamified task manager for deep work. Convert focus into rewards with an industrial Rust-style UI. ⚙️
 * **[LexCrab](https://yolshin195.github.io/lexcrab)** – Minimalist language learning through reading. Local translations, word highlighting, and instant dictionary access. 🦀
